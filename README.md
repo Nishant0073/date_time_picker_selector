@@ -1,8 +1,10 @@
-# date_time_picker
+# Notice
 
-[![pub package](https://img.shields.io/pub/v/date_time_picker.svg)](https://pub.dartlang.org/packages/date_time_picker)
+This was forked from https://github.com/m3uzz/date_time_picker  since the author is inactive.
 
-<a href="https://www.buymeacoffee.com/hslbetto" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Beer" style="width: 150px !important;"></a>
+Will accept PRs and try to solve issues.
+
+# date_time_picker_selector
 
 A Flutter widget to show a text form field to display a date or clock dialog.\
 This widget extend TextField and has a similar behavior as TextFormField
@@ -14,13 +16,13 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 ```yaml
 dependencies:
   ...
-  date_time_picker: "^2.1.0"
+  date_time_picker_selector: "^2.1.0"
 ```
 
 In your library add the following import:
 
 ```dart
-import 'package:date_time_picker/date_time_picker.dart';
+import 'package:date_time_picker_selector/date_time_picker_selector.dart';
 ```
 
 For help getting started with Flutter, view the online [documentation](https://flutter.io/).

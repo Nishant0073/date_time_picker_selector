@@ -1,3 +1,7 @@
+## 2.2.0 - 2023-10-17
+* Update SDK constraints to >=2.12.0 <4.0.0 based on beta release guidelines.
+* Updata intl version dependency.
+
 ## 2.1.0 - 2021-07-08
 
 * Fixed 12h display format.
